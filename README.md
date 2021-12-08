@@ -1,1 +1,1 @@
-# Entrance-test
+This is entrance test for Digital habits.
